@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "cors": "^2.8.5",
     "nodemon": "^2.0.19"
   },
   "dependencies": {
